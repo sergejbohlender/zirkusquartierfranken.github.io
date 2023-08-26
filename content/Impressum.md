@@ -16,7 +16,7 @@ Melanie Auernhammer
 **Registereintrag:**  
 Eintragung im Vereinsregister.  
 Registergericht: Nürnberg  
-Registernummer: 12341414
+Registernummer: 202918
 
 **Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:**
 
