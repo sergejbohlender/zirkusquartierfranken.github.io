@@ -1,13 +1,14 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "home"
+title = ""
 
 [params]
   displayName = "EN"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
+  logo = "img/logo_alt.png"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
