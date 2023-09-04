@@ -1,0 +1,21 @@
+languageCode = "de"
+languageName = "Deutsch"
+weight = 1
+title = ""
+
+[params]
+  displayName = "DE"
+  isoCode = "de"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/logo_alt.png"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  # description = "My awesome website"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[author]
+  name = "Zirkus Quartier Franken e.V."
+#   image = "img/blowfish_logo.png"
+#  headline = "mehr Zirkus für Franken"
+#   bio = "A little bit about you"

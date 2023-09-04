@@ -1,5 +1,7 @@
 ---
 title: Impressum
+showAuthor: false
+showTableOfContents: true
 ---
 
 Angaben gemäß § 5 TMG
@@ -7,7 +9,8 @@ Angaben gemäß § 5 TMG
 ---
 Zirkus Quartier Franken e.V.  
 Wodanstr. 74  
-90461 Nürnberg
+90461 Nürnberg  
+[info@zirkus-quartier-franken.de](mailto:info@zirkus-quartier-franken.de)  
 
 **Vertreten durch:**  
 

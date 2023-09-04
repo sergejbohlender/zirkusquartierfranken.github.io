@@ -1,5 +1,7 @@
 ---
 title: Datenschutzerklärung
+showAuthor: false
+showTableOfContents: true
 ---
 
 ## Allgemeiner Hinweis und Pflichtinformationen
@@ -11,6 +13,7 @@ Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
 Sergej Bohlender  
 Wodanstr. 74  
 90461 Nürnberg  
+[admin@zirkus-quartier-franken.de](mailto:admin@zirkus-quartier-franken.de)  
 
 ---
 
