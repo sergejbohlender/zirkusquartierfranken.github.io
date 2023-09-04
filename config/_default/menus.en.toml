@@ -1,0 +1,27 @@
+
+
+[[main]]
+  name = "Events"
+  pageRef = "events"
+  weight = 20
+
+[[main]]
+  identifier = "email"
+  pre = "email"
+  url = "mailto:info@zirkus-quartier-franken.de"
+  weight = 100
+
+[[footer]]
+  name = "Legal Notice"
+  pageRef = "impressum"
+  weight = 997
+
+[[footer]]
+  name = "Privacy"
+  pageRef = "privacy"
+  weight = 998
+
+[[footer]]
+  name = "info@zirkus-quartier-franken.de"
+  url = "mailto:info@zirkus-quartier-franken.de"
+  weight = 999
