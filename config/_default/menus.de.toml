@@ -9,23 +9,21 @@
 # By default the menu is ordered alphabetically. This can be
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
-
 [[main]]
   name = "Verein"
-  pageRef = "organisation/general"
   weight = 10
 
-#[[main]]
-#  name = "allgemein"
-#  parent = "Verein"
-#  pageRef = "organisation/general"
-#  weight = 10
+[[main]]
+  name = "Über uns"
+  parent = "Verein"
+  pageRef = "organisation/general"
+  weight = 1
 
-#[[main]]
-#  name = "mitmachen"
-#  parent = "Verein"
-#  pageRef = "organisation/contribute"
-#  weight = 20
+[[main]]
+  name = "Vorstand & Co"
+  parent = "Verein"
+  pageRef = "organisation/team"
+  weight = 2
 
 [[main]]
   name = "Events"

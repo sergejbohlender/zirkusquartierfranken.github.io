@@ -1,0 +1,5 @@
+{{ range $author, $data := .Site.Data.team }}
+  {{- if $data -}}
+    {{ partial "team-member.html" (dict "context" . "data" $data "link" 0) }}
+  {{- end -}}
+{{ end }}

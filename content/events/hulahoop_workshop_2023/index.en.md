@@ -19,7 +19,8 @@ Zirkus Quartier Franken e.V. presents:
 |||
 |---|---|
 |Date|13.-15. November 2023|
-|Location|Nuremberg|
+|Time|9:30 a.m. - 2:30 p.m.|
+|Location [{{< icon "location-dot" >}}](https://maps.app.goo.gl/NueirEDMF1TGLPVv5)|Kinder- und Jugendhaus Klüpfel<br>Leitzstraße 10<br>90489Nuremberg<br>Germany|
 |Price|150€ |
 |Contact<br>Registration|workshop@zirkus-quartier-franken.de|
 

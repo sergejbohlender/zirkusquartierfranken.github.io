@@ -6,11 +6,13 @@ showTableOfContents: true
 
 Angaben gemäß § 5 TMG
 
----
-Zirkus Quartier Franken e.V.  
-Wodanstr. 74  
-90461 Nürnberg  
-[info@zirkus-quartier-franken.de](mailto:info@zirkus-quartier-franken.de)  
+
+## Zirkus Quartier Franken e.V.  
+|||
+|-|-|
+|Addresse|Zirkus Quartier Franken e.V.<br>Wodanstr. 74<br>90461 Nürnberg|
+|E-Mail|[info@zirkus-quartier-franken.de](mailto:info@zirkus-quartier-franken.de)|
+|Bankverbindung|Zirkus Quartier Franken e.V.<br>GLS Bank Bochum<br>IBAN: DE20 4306 0967 1317 2979 00<br>BIC: GENODEM1GLS|
 
 **Vertreten durch:**  
 
