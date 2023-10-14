@@ -16,6 +16,12 @@ title = ""
 
 [author]
   name = "Zirkus Quartier Franken e.V."
-#   image = "img/blowfish_logo.png"
+  image = "img/round_logo.png"
+  links = [
+  { facebook = "https://www.facebook.com/profile.php?id=61552224718900" },
+  { instagram = "https://www.instagram.com/zirkusquartierfranken_ev" },
+  { email = "mailto:info@zirkus-quartier-franken.de"}
+]
+
 #  headline = "mehr Zirkus für Franken"
 #   bio = "A little bit about you"

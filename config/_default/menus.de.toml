@@ -37,6 +37,12 @@
   weight = 100
 
 [[main]]
+  identifier = "instagram"
+  pre = "instagram"
+  url = "https://www.instagram.com/zirkusquartierfranken_ev"
+  weight = 110
+
+[[main]]
   identifier = "email"
   pre = "email"
   url = "mailto:info@zirkus-quartier-franken.de"

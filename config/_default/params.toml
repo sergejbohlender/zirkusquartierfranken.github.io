@@ -36,7 +36,7 @@ disableImageOptimization = false
   showScrollToTop = true
 
 [homepage]
-  layout = "background" # valid options: page, profile, hero, card, background, custom
+  layout = "profile" # valid options: page, profile, hero, card, background, custom
   #homepageImage = "IMAGE.jpg" # used in: hero, and card
   showRecent = true
   showRecentItems = 5
@@ -73,6 +73,7 @@ disableImageOptimization = false
   showAuthorsBadges = false
   showWordCount = false
   showSummary = true
+  sharingLinks = [ "twitter", "pinterest", "facebook", "email", "whatsapp", "telegram"]
   # sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
 
 [list]
