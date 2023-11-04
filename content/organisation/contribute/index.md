@@ -19,7 +19,7 @@ Du willst Mitglied werden? Dazu lediglich den passenden Antrag herunterladen, au
 {{< button href="../../../downloads/ZQF-Aufnahmeantrag-Einzel.pdf" target="_blank">}}
     {{< icon "download" >}}Einzel-/Fördermitgliedschaft
 {{< /button >}}
-&nbsp;
+<br><br>
 {{< button href="../../../downloads/ZQF-Aufnahmeantrag-Familie.pdf" target="_blank">}}
     {{< icon "download" >}}Familienmitgliedschaft
 {{< /button >}}

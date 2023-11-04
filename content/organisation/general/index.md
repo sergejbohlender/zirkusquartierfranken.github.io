@@ -59,7 +59,7 @@ Dieser Bereich ist für dokumentarische Erzeugnisse, wie etwa unsere Satzung ode
 {{< button href="../../../downloads/ZQF_Satzung.pdf" target="_blank">}}
     &nbsp&nbsp{{< icon "download" >}}Satzung&nbsp&nbsp
 {{< /button >}}
-&nbsp;
+<br><br>
 {{< button href="../../../downloads/ZQF_Geschaeftsordnung.pdf" target="_blank">}}
     {{< icon "download" >}}Geschäftsordnung
 {{< /button >}}
