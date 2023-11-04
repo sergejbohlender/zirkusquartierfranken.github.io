@@ -24,6 +24,11 @@
   parent = "Verein"
   pageRef = "organisation/team"
   weight = 2
+[[main]]
+  name = "Mitmachen"
+  parent = "Verein"
+  pageRef = "organisation/contribute"
+  weight = 3
 
 [[main]]
   name = "Events"

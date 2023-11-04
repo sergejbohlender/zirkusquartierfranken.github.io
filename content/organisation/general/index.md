@@ -5,6 +5,7 @@ description: "Unser Verein"
 slug: verein
 showTableOfContents: true
 summary: "Einleitende Worte"
+sharingLinks: false
 
 ---
 
@@ -50,3 +51,15 @@ konsequent entgegen.
 Des Weiteren will der Verein ein Netzwerk für Zirkus sein und sowohl den Austausch mit
 anderen Künsten fördern, als auch Zirkusinteressierte inner- und außerhalb Nürnbergs
 miteinander vernetzten.
+
+## Downloads
+
+Dieser Bereich ist für dokumentarische Erzeugnisse, wie etwa unsere Satzung oder Geschäftsordnung, vorgesehen. Einfach per Klick herunterladen.
+
+{{< button href="../../../downloads/ZQF_Satzung.pdf" target="_blank">}}
+    &nbsp&nbsp{{< icon "download" >}}Satzung&nbsp&nbsp
+{{< /button >}}
+&nbsp;
+{{< button href="../../../downloads/ZQF_Geschaeftsordnung.pdf" target="_blank">}}
+    {{< icon "download" >}}Geschäftsordnung
+{{< /button >}}
