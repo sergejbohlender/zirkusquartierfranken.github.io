@@ -2,6 +2,7 @@
 startDate: 2023-11-13
 title: Hoop – Body – Space
 slug: en workshop hoop body space
+description: "Workshop: Three day Hula-Hoop exploration journey with Perrine Budan."
 summary: "Three days of hooping, exploring and playing with Perrine Budan."
 tags: ["workshop", "hula hoop", "intermediate" ]
 ---

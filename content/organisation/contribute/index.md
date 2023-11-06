@@ -1,5 +1,6 @@
 ---
 title: "Mitmachen"
+description: "Mitglied werden oder sich einbringen oder einfach nur mitmischen, das ist ganz einfach. Alle Zirkusbegeisterten bitte hier lang."
 showAuthor: false
 sharingLinks: false
 ---

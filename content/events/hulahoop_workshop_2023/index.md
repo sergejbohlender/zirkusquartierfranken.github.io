@@ -2,6 +2,7 @@
 startDate: 2023-11-13
 title: Hoop – Body – Space
 slug: workshop hoop body space
+description: "Workshop: Dreitägige Hula-Hoop Entdeckungsreise mit Perrine Budan."
 summary: "Dreitägige Hula-Hoop Entdeckungsreise mit Perrine Budan."
 tags: ["workshop", "hula hoop", "fortgeschritten" ]
 ---

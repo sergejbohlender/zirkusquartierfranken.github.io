@@ -1,7 +1,8 @@
 languageCode = "de"
 languageName = "Deutsch"
 weight = 1
-title = ""
+title = "Zirkus Quartier Franken e.V."
+description = "Als eingetragener und gemeinnützig anerkannter Verein, wollen wir in der Metropolregion Nürnberg, die Zirkuskünste leben und fördern."
 
 [params]
   displayName = "DE"

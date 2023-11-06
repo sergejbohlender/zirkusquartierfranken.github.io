@@ -1,7 +1,7 @@
 ---
 title: "Verein"
 date: 2023-08-30
-description: "Unser Verein"
+description: "Über uns: Was, wieso und wie? Alle wichtigen Informationen über unseren Verein gebündelt auf einer Seite."
 slug: verein
 showTableOfContents: true
 summary: "Einleitende Worte"
