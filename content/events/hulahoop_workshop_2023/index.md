@@ -23,7 +23,7 @@ Zirkus Quartier Franken e.V. präsentiert:
 |Zeiten|9:30 Uhr - 14:30 Uhr|
 |Ort[{{< icon "location-dot" >}}](https://maps.app.goo.gl/NueirEDMF1TGLPVv5)|Kinder- und Jugendhaus Klüpfel<br>Leitzstraße 10<br>90489 Nürnberg|
 |Preis|150€ |
-|Kontak<br>Anmeldung|workshop@zirkus-quartier-franken.de|
+|Kontakt<br>Anmeldung|workshop@zirkus-quartier-franken.de|
 
 
 ## Ablauf
