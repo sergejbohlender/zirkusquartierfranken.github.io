@@ -2,6 +2,7 @@
 startDate: 2023-12-03
 title: Weihnachten im Zirkus Quartier Franken
 slug: 2023/weihnachtsfeier
+description: "Erste Weihnachtsfeier des Zirkus Quartier Franken e.V. für Mitglieder, Freunde und Neugierige."
 summary: "Erste Weihnachtsfeier des Zirkus Quartier Franken e.V. für Mitglieder, Freunde und Neugierige."
 tags: ["Verein", "Feier", Workshop]
 ---
