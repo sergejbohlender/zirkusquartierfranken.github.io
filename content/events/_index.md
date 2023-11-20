@@ -1,6 +1,6 @@
 ---
 title: "Events"
-description: ""
+description: "Workshps, Feiern und unsere widerkehrende Veranstalltungen"
 
 cascade:
   showDate: true

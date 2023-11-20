@@ -1,11 +1,12 @@
----
-startDate: 2023-12-03
-title: Weihnachten im Zirkus Quartier Franken
-slug: 2023/weihnachtsfeier
-description: "Erste Weihnachtsfeier des Zirkus Quartier Franken e.V. für Mitglieder, Freunde und Neugierige."
-summary: "Erste Weihnachtsfeier des Zirkus Quartier Franken e.V. für Mitglieder, Freunde und Neugierige."
-tags: ["Verein", "Feier", Workshop]
----
++++
+startDate = 2023-12-03
+endDate = 2023-12-04
+title = "Weihnachten im Zirkus Quartier Franken"
+slug =  "2023/weihnachtsfeier"
+description = "Erste Weihnachtsfeier des Zirkus Quartier Franken e.V. für Mitglieder, Freunde und Neugierige."
+summary = "Erste Weihnachtsfeier des Zirkus Quartier Franken e.V. für Mitglieder, Freunde und Neugierige."
+tags = ["Verein", "Feier", "Workshop"]
++++
 
 ## Information
 Zirkus Quartier Franken e.V. präsentiert:  
@@ -33,7 +34,7 @@ Bei unseren anfängerfreundlichen Workshops hast du die Möglichkeit verschieden
 - Jonglage
 - Diabolo
 - Vertikaltuch
-- evtl. Acroyoga
+- Acroyoga
 
 Bitte melde dich unter workshops@zirkus-quartier-franken.de an, wenn du an einem Workshop teilnehmen willst.
 {{< alert "circle-info" >}}

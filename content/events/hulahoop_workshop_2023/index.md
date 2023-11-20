@@ -1,11 +1,12 @@
----
-startDate: 2023-11-13
-title: Hoop – Body – Space
-slug: workshop hoop body space
-description: "Workshop: Dreitägige Hula-Hoop Entdeckungsreise mit Perrine Budan."
-summary: "Dreitägige Hula-Hoop Entdeckungsreise mit Perrine Budan."
-tags: ["workshop", "hula hoop", "fortgeschritten" ]
----
++++
+startDate = 2023-11-13
+endDate = 2023-11-19
+title = "Hoop – Body – Space"
+slug = "workshop hoop body space"
+description = "Workshop: Dreitägige Hula-Hoop Entdeckungsreise mit Perrine Budan."
+summary = "Dreitägige Hula-Hoop Entdeckungsreise mit Perrine Budan."
+tags = ["workshop", "hula hoop", "fortgeschritten" ]
++++
 {{< lead >}}
 {{< typeit
   speed=50
