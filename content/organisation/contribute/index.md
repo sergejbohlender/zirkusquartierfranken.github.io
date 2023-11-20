@@ -8,7 +8,7 @@ sharingLinks: false
 Dieser Bereich soll sich genau mit dieser Frage beschäftigen. Am einfachsten kannst du dich über eine [Mitgliedschaft](#mitgliedschaft) einbringen, aber darüber hinaus sind wir offen für alle, die Lust haben:
 
 - artistisch oder organisatorisch mit anzupacken, um etwa Shows auf die Beine zu stellen
-- Workshops zu geben. Schreib uns gerne an, unter worksop@zirkus-quartier-franken.de
+- Workshops zu geben. Schreib uns gerne an, unter workshop@zirkus-quartier-franken.de
 - uns im Bereich Kinder- und Jugendzirkus zu unterstützen
 - auf andere verrückte wie bunte "Kleinigkeiten"
 
