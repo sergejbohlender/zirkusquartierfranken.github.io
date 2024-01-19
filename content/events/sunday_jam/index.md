@@ -1,33 +1,35 @@
 +++
 startDate = 2024-02-11
 endDate = 2024-04-04
-title = "Künstlerischer Sonntagsbrunch"
-slug =  "2024/training"
-description = "Erste Weihnachtsfeier des Zirkus Quartier Franken e.V. für Mitglieder, Freunde und Neugierige."
-summary = "Erste Weihnachtsfeier des Zirkus Quartier Franken e.V. für Mitglieder, Freunde und Neugierige."
+title = "Einquartiert!"
+slug =  "2024/einquartiert"
+description = "Unser langes offenes Sonntagstraining für jedermann, jedefrau und jedeskind"
+summary = "Offenes Training für jedermann, jedefrau und jedeskind. Einmal monatlich an einen Sonntag nach Herzenslust werfen, balancieren, akrobatiern, eine gute Zeit haben uns so vieles mehr..."
 tags = ["Training",]
 +++
 
-Zirkus Quartier Franken e.V. präsentiert
+Zirkus Quartier Franken e.V. präsentiert:
+
+**Einquartiert!** Das ist unser monatlich stattfindendes offenes Trainingsangebot in Nürnberg für jedermann, jedefrau und jedeskind {{<icon "heart">}}. Ihr habt ganze **6 Stunden** zum Üben, Austauschen oder einfach nur Spaß haben.
+
 
 |||
 |---|---|
-|Termine| Monatlich an einem **Sonntag** zwischen <br>14:00 Uhr - 21:30 Uhr<br>. Die bestätigten Termine sind:<br> <table>  <tbody>  <tr> <td>11.02.2024</td>  </tr>  <tr>  <td>10.03.2024</td>  </tr>  <tr>  <td>14.04.2024</td>  </tr> <tr>  <td>Weitere folgen :-)</td>  </tr> </tbody>  </table> |
+|Termine| Monatlich an einem **Sonntag** zwischen <br>14:30 Uhr - 21:00 Uhr <table> <tr> <th>Bestätigt</th><th>Workshops</th></tr> <tbody>  <tr> <td>11.02.2024</td>  </tr>  <tr>  <td>10.03.2024</td> <td>18Uhr Keulenmanipulation basics</td>  </tr>  <tr>  <td>14.04.2024</td> </tr> </tbody>  </table> |
 |Ort[{{< icon "location-dot" >}}](https://maps.app.goo.gl/vjqVtLmMPJ3i9Spj7)|JugendKinderKultur Quibble<br>Augustenstraße 25<br>90461 Nürnberg|
 |Informationen| Noch Fragen? Melde dich einfach unter workshop@zirkus-quartier-franken.de|
 
 
 ## Ablauf
-### 14:00-15:30 | Trainig Selber groß
-
-Bitte melde dich unter workshops@zirkus-quartier-franken.de an, wenn du an einem Workshop teilnehmen willst.
+### 14:30-16:00 | Training Selbergroß
+Die erste Runde starten wir in einem Format, welches Rahmenbedingungen schafft, um vor allem jüngeren Teilnehmern ein selbstbestimmtes und eigenständiges Training zu ermöglichen.
 {{< alert "circle-info" >}}
-U18 Teilnahme  ohne Begleitung von Erziehungsberechtigten möglich.
+U18 Teilnahme ohne Begleitung von Erziehungsberechtigten möglich.
 {{< /alert >}}
 
-### 15:30-21:30 | Offenes Training
-Du möchtest den Verein kennenlernen? Im Anschluss an die Workshops kannst du gemütlich Kinderpunsch
-trinken und quatschen oder beim offenen Training weiter üben. **Es sind alle eingeladen etwas zum Buffet beizutragen. {{< icon "heart" >}}**
-{{< alert "circle-info" >}}
-Teilnahme für U18 nur in Begleitung von Erziehungsberechtigten möglich.
-{{< /alert >}}
+### 16:00-21:00 | Freies Training
+Im Anschluss heißt es **fünf Stunden Training pur!** Man kann es natürlich ein wenig entspannter angehen und tolle Kontakte knüpfen sowie sich von anderen inspirieren lassen.  
+Kleine Workshops sind auch jederzeit gerne gesehen. Das geht spontan oder geplant, [melde dich bei uns](mailto:workshop@zirkus-quartier-franken.de) und wir können deinen tollen Workshop hier bewerben.
+
+
+Bild: [Erstellt mit Craiyon](https://www.craiyon.com/)
