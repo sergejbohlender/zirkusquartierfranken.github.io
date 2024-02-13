@@ -1,5 +1,5 @@
 +++
-startDate = 2024-03-11
+startDate = 2024-03-10
 endDate = 2024-04-04
 title = "Einquartiert!"
 slug =  "2024/einquartiert"
