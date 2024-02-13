@@ -17,6 +17,7 @@ mainSections = ["events"]  # show recent events on main page
 # robots = ""
 
 disableImageOptimization = false
+disableTextInHeader = true
 
 #defaultBackgroundImage = "/img/tossup.jpg" # used as default for background images 
 #defaultFeaturedImage = "/img/tossup.jpg" # used as default for featured images in all articles
