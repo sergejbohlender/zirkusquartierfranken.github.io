@@ -36,6 +36,11 @@
   weight = 20
 
 [[main]]
+  name = "Newsletter"
+  url = "https://29cb5d87.sibforms.com/serve/MUIFAKTLeprTJC39YzgsqRAr7ki8Ffou3Zuno-OnFm49YrXnIGAY0fguy7Zwo1sB_U4nLa4bk322ik0svIhBDgEvRMs4lsyjUzDFZMimU165hHukCve6iizF4e_JSiEkbAExWErouSTsirn8dWrgf-gITF9KPsPrvv0NhZZapcZSXtaaiXv9YFZ1Cq7l4QNBjnJnk4Qfnl0eq-0c"
+  weight = 30
+
+[[main]]
   identifier = "facebook"
   pre = "facebook"
   url = "https://www.facebook.com/profile.php?id=61552224718900"
