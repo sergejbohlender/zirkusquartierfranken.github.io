@@ -43,7 +43,7 @@ disableTextInHeader = true
   showRecentItems = 5
   showMoreLink = false
   showMoreLinkDest = "events/workshops"
-  cardView = false
+  cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
 

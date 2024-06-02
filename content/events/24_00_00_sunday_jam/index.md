@@ -4,7 +4,7 @@ endDate = 2024-06-21
 title = "Einquartiert!"
 slug =  "2024/einquartiert"
 description = "Unser langes offenes Sonntagstraining für jedermann, jedefrau und jedeskind"
-summary = "Offenes Training für jedermann, jedefrau und jedeskind. Einmal monatlich an einem Sonntag nach Herzenslust werfen, balancieren, akrobatiern, eine gute Zeit haben uns so vieles mehr..."
+summary = "Offenes Training für jedermann, jedefrau und jedeskind. Einmal monatlich an einem Sonntag nach Herzenslust werfen, balancieren, akrobatiern, eine gute Zeit haben und so vieles mehr..."
 tags = ["Training",]
 +++
 
@@ -30,6 +30,3 @@ U18 Teilnahme ohne Begleitung von Erziehungsberechtigten möglich.
 ### 16:00-21:00 | Freies Training
 Im Anschluss heißt es **fünf Stunden Training pur!** Man kann es natürlich ein wenig entspannter angehen und tolle Kontakte knüpfen sowie sich von anderen inspirieren lassen.  
 Kleine Workshops sind auch jederzeit gerne gesehen. Das geht spontan oder geplant, [melde dich bei uns](mailto:workshop@zirkus-quartier-franken.de) und wir können deinen tollen Workshop hier bewerben.
-
-
-Bild: [Erstellt mit Craiyon](https://www.craiyon.com/)
