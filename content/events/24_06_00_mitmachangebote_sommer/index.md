@@ -4,7 +4,7 @@ endDate = 2024-07-08
 title = "Festlicher Mitmachzirkus in der Südstadt"
 slug =  "2024/mitmachzirkus-südstadt-bleiweiss"
 description = "Bleiweiß Straßenfest und Südstadtfest wir kommen!"
-summary = "Bleiweiß Straßenfest und Südstadtfest wir kommen! Weitere Informationen folgen"
+summary = "Bleiweiß Straßenfest und Südstadtfest wir kommen!"
 tags = ["Workshop", "Verein"]
 +++
 
