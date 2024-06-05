@@ -3,8 +3,8 @@ startDate = 2024-07-12
 endDate = 2024-07-15
 title = "Hoop and Greet"
 slug =  "2024/hoop-and-greet"
-description = "Informationen folgen"
-summary = "Informationen folgen"
+description = "Hoop Dance Workshop mit Melli und Yvonne im Rosenaupark. Nicht verpassen!"
+summary = "Hoop Dance Workshop mit Melli und Yvonne im Rosenaupark. Nicht verpassen!"
 tags = ["Workshop", "Training"]
 +++
 
