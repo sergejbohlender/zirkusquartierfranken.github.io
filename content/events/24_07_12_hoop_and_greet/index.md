@@ -3,8 +3,8 @@ startDate = 2024-07-12
 endDate = 2024-07-15
 title = "Hoop and Greet"
 slug =  "2024/hoop-and-greet"
-description = "Hoop Dance Workshop mit Melli und Yvonne im Rosenaupark. Nicht verpassen!"
-summary = "Hoop Dance Workshop mit Melli und Yvonne im Rosenaupark. Nicht verpassen!"
+description = "Hoop Dance Workshop im Rosenaupark mit Melli und Yvonne. Nicht verpassen!"
+summary = "Hoop Dance Workshop im Rosenaupark mit Melli und Yvonne. Nicht verpassen!"
 tags = ["Workshop", "Training"]
 +++
 
@@ -13,8 +13,7 @@ tags = ["Workshop", "Training"]
 |Datum|Freitag 12. Juli 2024|
 |Zeiten| 20:00 - 21:00 Uhr|
 |Ort[{{< icon "location-dot" >}}](https://maps.app.goo.gl/RKGDhhzNH1Dth8WU7)|Rosenaupark<br>Bleichstraße<br>90429 Nürnberg|
-|Kosten|Wir freuen uns über freiwillige Spenden für unseren Verein
-Zirkus Quartier Franken e.V|
+|Kosten|Wir freuen uns über freiwillige Spenden für unseren Verein Zirkus Quartier Franken e.V|
 
 **Hoop Dance Workshop**   
 
