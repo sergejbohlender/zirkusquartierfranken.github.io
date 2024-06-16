@@ -1,4 +1,4 @@
-{{ $recentArticles := 5 }}
+{{ $recentArticles := 6 }}
 {{ $recentArticles = .Site.Params.homepage.showRecentItems }}
 
 {{ $articles := where .Site.RegularPages "Type" "in" .Site.Params.mainSections}}
