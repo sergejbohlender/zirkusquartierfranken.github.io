@@ -1,5 +1,5 @@
 +++
-startDate = 2024-06-28
+startDate = 2024-07-06
 endDate = 2024-07-08
 title = "Festlicher Mitmachzirkus in der Südstadt"
 slug =  "2024/mitmachzirkus-südstadt-bleiweiss"
@@ -39,8 +39,8 @@ Für viele das schönste Stadtteilfest in Nürnberg. Das [Südstadtfest](https:/
 
 |Uhrzeit|Programm|
 |---|---|
-|14:00 - 18:00|Mitmachangebot|
-|Info folgt|Hula Hoop Workshop|
+|14:00 - 18:00|Mitmachangebot für alle|
+|15:30 - 17:00|Hula Hoop Workshop für Erwachsene|
 
 
 
