@@ -2,9 +2,9 @@ languageCode = "en"
 languageName = "English"
 weight = 1
 title = "Zirkus Quartier Franken e.V."
-description = "As a registered and non-profit organization, we want to live and promote circus arts in the Nuremberg metropolitan region (germany)."
 
 [params]
+  description = "As a registered and non-profit organization, we want to live and promote circus arts in the Nuremberg metropolitan region (germany)."
   displayName = "EN"
   isoCode = "en"
   rtl = false
