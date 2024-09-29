@@ -12,7 +12,7 @@ Nachdem wir erfolgreich unseren Zirkus-Verein gegründet haben, müssen wir unse
 
 Unter den im südpunkt gelisteten [Vereinstreffen](https://www.nuernberg.de/internet/suedpunkt/treffs.html) könnt ihr uns bald finden.
 
-Nach einer kurzen Sommerpause wird das Plenum, ab **Montag den 2. September**, regulär am ersten Montag jeden Monats im Südpunkt stattfinden.
+Das Plenum findet regulär **am ersten Montag jeden Monats** im Südpunkt statt.
 
 {{< alert "circle-info" >}}
 Diese Seite wird stets aktuell gehalten und neben Email, benutzt, um euch über spontane wie langfristige Änderungen zu informieren. Schaut also gelegentlich hier vorbei!
