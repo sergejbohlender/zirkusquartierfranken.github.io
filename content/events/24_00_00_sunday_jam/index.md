@@ -1,6 +1,6 @@
 +++
-startDate = 2024-10-13
-endDate = 2024-10-15
+startDate = 2024-11-17
+endDate = 2024-11-20
 title = "Einquartiert!"
 slug =  "2024/einquartiert"
 description = "Unser langes offenes Sonntagstraining für jedermann, jedefrau und jedeskind"
