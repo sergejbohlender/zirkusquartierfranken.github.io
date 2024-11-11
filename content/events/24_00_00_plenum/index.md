@@ -1,5 +1,5 @@
 +++
-startDate = 2024-10-07
+startDate = 2024-12-02
 endDate = 2025-01-02
 title = "Plenum"
 slug =  "2024/plenum"
