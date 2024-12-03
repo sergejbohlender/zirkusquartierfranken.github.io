@@ -14,7 +14,7 @@ Zirkus Quartier Franken e.V. präsentiert:
  
 |||
 |---|---|
-|Datum|Sonntag 3. Dezember 2023|
+|Datum|Sonntag 22. Dezember 2024|
 |Zeiten|15:00 Uhr - 22:00 Uhr|
 |Ort[{{< icon "location-dot" >}}](https://maps.app.goo.gl/vjqVtLmMPJ3i9Spj7)|JugendKinderKultur Quibble<br>Augustenstraße 25<br>90461 Nürnberg|
 |Anmeldung|workshop@zirkus-quartier-franken.de<br>Nur für Workshops nötig.|
