@@ -1,6 +1,6 @@
 +++
-startDate = 2024-11-17
-endDate = 2024-11-20
+startDate = 2025-01-19
+endDate = 2025-01-21
 title = "Einquartiert!"
 slug =  "2024/einquartiert"
 description = "Unser langes offenes Sonntagstraining für jedermann, jedefrau und jedeskind"
@@ -15,7 +15,7 @@ Zirkus Quartier Franken e.V. präsentiert:
 
 |||
 |---|---|
-|Termine| Monatlich an einem **Sonntag** zwischen <br>14:30 Uhr - 21:00 Uhr<table><tr> <th>Bestätigt</th><th>Workshops</th></tr> <tbody>  <tr> <td>13.10.2024</td>  </tr>  <tr>  <td>17.11.2024</td> <td>18Uhr Keulenmanipulation Part II </td>  </tr> </tbody>  </table> |
+|Termine| Monatlich an einem **Sonntag** zwischen <br>14:30 Uhr - 21:00 Uhr<table><tr> <th>Bestätigt</th><th>Workshops</th></tr> <tbody>  <tr> <td>19.01.2025</td>  </tr>  <tr>  <td>02.02.2025</td> <td>18Uhr Keulenmanipulation Part II </td>  </tr> <tr> <td>16.02.2025</td>  </tr> <tr> <td>16.03.2025</td>  </tr> <tr> <td>30.03.2025</td>  </tr> <tr> <td>06.04.2025</td>  </tr> <tr> <td>18.05.2025</td>  </tr> </tbody>  </table> |
 |Ort[{{< icon "location-dot" >}}](https://maps.app.goo.gl/vjqVtLmMPJ3i9Spj7)|JugendKinderKultur Quibble<br>Augustenstraße 25<br>90461 Nürnberg|
 |Informationen| Noch Fragen? Melde dich einfach unter workshop@zirkus-quartier-franken.de|
 
