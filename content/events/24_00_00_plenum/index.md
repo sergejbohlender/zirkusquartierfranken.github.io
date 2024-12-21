@@ -1,12 +1,21 @@
 +++
-startDate = 2024-12-02
-endDate = 2025-01-02
+startDate = 2025-01-13
+endDate = 2025-02-02
 title = "Plenum"
 slug =  "2024/plenum"
 description = "Unser monatlich stattfindendes Plenum. Alle sind wilkommen!"
-summary = "Unser monatlich stattfindendes Plenum. Alle sind wilkommen!"
+summary = "Unser monatlich stattfindendes Plenum. Alle sind wilkommen! <mark>Nächstes Plenum entfällt für Mitgliederversammlung</mark>"
 tags = ["Verein",]
 +++
+
+{{< alert "circle-info" >}}
+Nächste Termine entgegen des üblichen Rythmus:
+
+- 13.01.2025 - Mitgliederversammlung
+- 10.02.2025 - Plenum
+
+{{< /alert >}}
+
 
 Nachdem wir erfolgreich unseren Zirkus-Verein gegründet haben, müssen wir unser frisch errichtetes Quartier mit Leben füllen. Wir freuen uns daher sehr über Ideen, Fragen und Rückmeldungen sowie rege Teilnahme an den Vereinsplena – also unseren monatlichen Sitzungen. Der Verein lebt davon und dadurch, dass alles sich einbringen und Ideen umsetzen – macht mit, damit wir alle profitieren!
 
