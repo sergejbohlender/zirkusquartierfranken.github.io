@@ -8,3 +8,7 @@ sharingLinks: false
 
 
 {{< team >}}
+
+Hier noch ein großes Dankeschön an alle ehemaligen Vorstände:
+
+Carmen, Sabine, Peter
