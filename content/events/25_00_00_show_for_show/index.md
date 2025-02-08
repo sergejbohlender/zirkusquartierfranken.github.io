@@ -1,5 +1,4 @@
 +++
-date = 2024-01-01
 startDate = 2025-03-30
 endDate = 2025-03-30
 title = "Show für Show <br> (Vorläugiger Termin)"

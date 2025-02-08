@@ -13,7 +13,9 @@ paginate = 10
 summaryLength = 0
 
 buildDrafts = false
-buildFuture = false
+buildFuture = true
+# build future must be true! other wise date must be set in front matter
+
 
 # googleAnalytics = "G-XXXXXXXXX"
 
