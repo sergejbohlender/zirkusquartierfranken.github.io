@@ -12,7 +12,7 @@ Grad für Grad rückt der Sommer näher, somit auch die zahlreichen Sommerfeste 
 sicherlich der heiße Süden Nürnbergs. {{< icon "fire" >}}
 
 Durch
-- das im Quibble stattfindendes Trainingsformat [Einquartiert!]({{< ref "/events/24_00_00_sunday_jam" >}})
+- das im Quibble stattfindendes Trainingsformat **Einquartiert!** [Einquartiert!] ({ { < ref "/24_00_00_sunday_jam/index.md" >}})
 - der Wodanstraße: Unser aktueller Vereinssitz und Plenumsraum
 - verschiedene Zirkusaktionen, an denen unsere Mitglieder beteiligt sind, wie zum Beispiel der Zirkus GECCO oder Zirkus im Park
 

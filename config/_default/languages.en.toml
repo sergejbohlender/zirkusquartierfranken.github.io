@@ -15,7 +15,7 @@ title = "Zirkus Quartier Franken e.V."
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
-[author]
+[params.author]
   name = "Zirkus Quartier Franken e.V."
   image = "img/round_logo.png"
   links = [

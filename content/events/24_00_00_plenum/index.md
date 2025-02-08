@@ -1,6 +1,7 @@
 +++
 startDate = 2025-02-10
 endDate = 2025-02-12
+date = 2024-01-01
 title = "Plenum"
 slug =  "2024/plenum"
 description = "Unser monatlich stattfindendes Plenum. Alle sind wilkommen!"
