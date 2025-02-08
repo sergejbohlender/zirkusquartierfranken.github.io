@@ -2,10 +2,10 @@
 date = 2024-01-01
 startDate = 2025-03-30
 endDate = 2025-03-30
-title = "Show für Show"
+title = "Show für Show <br> (Vorläugiger Termin)"
 slug =  "2025/show_to_show"
 description = "Komm vorbei und erlebe einen Abend voller Akrobatik, Jonglage und Clownerie, präsentiert von talentierten Zirkuskünstlern aus der Region. Mit deiner Spende hilfst du uns, besondere Zirkusshows nach Franken zu bringen und die Kultur vor Ort zu bereichern!"
-summary = "Komm vorbei und erlebe einen Abend voller Akrobatik, Jonglage und Clownerie, präsentiert von talentierten Zirkuskünstlern aus der Region. Mit deiner Spende hilfst du uns, besondere Zirkusshows nach Franken zu bringen und die Kultur vor Ort zu bereichern!  <mark>Vorläufiger Termin</mark>"
+summary = "Komm vorbei und erlebe einen Abend voller Akrobatik, Jonglage und Clownerie, präsentiert von talentierten Zirkuskünstlern aus der Region. Mit deiner Spende hilfst du uns, besondere Zirkusshows nach Franken zu bringen und die Kultur vor Ort zu bereichern!"
 tags = ["Show"]
 +++
 

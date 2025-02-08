@@ -5,7 +5,7 @@ date = 2024-01-01
 title = "Einquartiert!"
 slug =  "2024/einquartiert"
 description = "Unser langes offenes Sonntagstraining für jedermann, jedefrau und jedeskind"
-summary = "Offenes Training für jedermann, jedefrau und jedeskind. Einmal monatlich an einem Sonntag nach Herzenslust werfen, balancieren, akrobatiern, eine gute Zeit haben und so vieles mehr... <br><mark>Termin am 02.Februar entfällt!</mark>"
+summary = "Offenes Training für jedermann, jedefrau und jedeskind. Einmal monatlich an einem Sonntag nach Herzenslust werfen, balancieren, akrobatiern, eine gute Zeit haben und so vieles mehr..."
 tags = ["Training",]
 +++
 
