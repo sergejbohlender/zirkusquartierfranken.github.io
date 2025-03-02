@@ -1,6 +1,6 @@
 +++
-startDate = 2025-02-10
-endDate = 2025-02-12
+startDate = 2025-03-10
+endDate = 2025-03-12
 title = "Plenum"
 slug =  "2024/plenum"
 description = "Unser monatlich stattfindendes Plenum. Alle sind wilkommen!"
@@ -9,9 +9,16 @@ tags = ["Verein",]
 +++
 
 {{< alert "circle-info" >}}
-Nächste Termine entgegen des üblichen Rythmus:
+Nächster Termin entgegen des üblichen Rythmus:
 
-- 10.02.2025 - Plenum
+- 10.03.2025
+- Treffpunkt voraussichtlich: Südpunkt
+
+Bitte kurz vorher nochmal informieren!
+
+- alternativer Treffpunkt: Wodanstr. 74, 90461 Nürnberg
+
+
 
 {{< /alert >}}
 
