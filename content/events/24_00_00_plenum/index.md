@@ -11,14 +11,8 @@ tags = ["Verein",]
 {{< alert "circle-info" >}}
 Nächster Termin entgegen des üblichen Rythmus:
 
-- 10.03.2025
-- Treffpunkt voraussichtlich: Südpunkt
-
-Bitte kurz vorher nochmal informieren!
-
-- alternativer Treffpunkt: Wodanstr. 74, 90461 Nürnberg
-
-
+- 10.03.2025 | 19:30 Uhr
+- Treffpunkt: **Wodanstr. 74, 90461 Nürnberg**
 
 {{< /alert >}}
 
