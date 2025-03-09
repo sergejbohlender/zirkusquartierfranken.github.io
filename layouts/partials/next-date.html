@@ -1,0 +1,14 @@
+{{ $return_date := .Params.startDate }}
+
+{{ with .Params.dates}}
+    {{$dates := sort . "value" "desc"}}
+    {{ $return_date = index $dates 0 }}
+    {{ range $dates}}
+        {{ if ge . (now.AddDate 0 0 -1)}}
+            {{ $return_date = .}}
+        {{ end }}
+    {{ end }}
+    {{ $return_date = time $return_date}}
+{{ end }}
+
+{{ return $return_date }}

@@ -1,19 +1,19 @@
 +++
-startDate = 2025-03-10
-endDate = 2025-03-12
+date = 2025-06-02
+dates = [2025-03-10, 2025-04-07, 2025-05-05, 2025-06-02]
+attention = [
+    ["2025-03-10", "19:30 - **Wodanstr.74, 90461 Nürnberg**"],
+]
 title = "Plenum"
-slug =  "2024/plenum"
+slug =  "plenum"
 description = "Unser monatlich stattfindendes Plenum. Alle sind wilkommen!"
 summary = "Unser monatlich stattfindendes Plenum. Alle sind wilkommen!"
 tags = ["Verein",]
 +++
 
-{{< alert "circle-info" >}}
-Nächster Termin entgegen des üblichen Rythmus:
-
-- 10.03.2025 | 19:30 Uhr
-- Treffpunkt: **Wodanstr. 74, 90461 Nürnberg**
-
+Nächste Termine:
+{{< alert icon="circle-info" >}}
+{{% dates %}}19:30 - Südpunkt {{% /dates %}}
 {{< /alert >}}
 
 

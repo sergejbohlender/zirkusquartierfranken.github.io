@@ -1,0 +1,23 @@
+{{ $default := .Inner  }}
+{{ $next := slice}}
+{{ $attention := dict }}
+{{ with .Page.Params.attention}}
+    {{ range . }}
+        {{ $attention = merge $attention (dict (index . 0) (index . 1)) }}
+    {{ end }}
+{{ end }}
+{{ with .Page.Params.dates}}
+    {{ $dates := sort . "value" "asc"}}
+    {{ range $dates}}
+        {{ if ge . (now.AddDate 0 0 -1)}}
+            {{ $next = $next | append .}}
+        {{ end }}
+    {{ end }}
+{{ end }}
+{{ with $next}}
+|Termin|Info|
+|---|---|{{ range $next}}
+{{time.Format "2 January 2006" .}}|{{with index $attention (time.Format "2006-01-02" .)}}{{.}}{{else}}{{$default}}{{end}}|{{ end }}
+{{ else }}
+**Keine Anstehenden Termine**
+{{ end }}

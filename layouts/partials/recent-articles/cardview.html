@@ -1,20 +1,15 @@
 {{ $recentArticles := 6 }}
 {{ $recentArticles = .Site.Params.homepage.showRecentItems }}
 
-{{ $articles := where .Site.RegularPages "Type" "in" .Site.Params.mainSections}}
-
-{{ $current := slice }}
-{{ range $articles}}
-  {{if or
-    (ge .Params.endDate now)
-    (eq .Params.endDate nil)
-  }}
-  {{ $current = $current | append . }}
-  {{end}}
+{{ $dated_event := slice }}
+{{ range where .Site.RegularPages "Type" "in" .Site.Params.mainSections}}
+  {{ $next_or_last := partial "next-date.html" . }}
+  {{ $dated_event = $dated_event | append (dict "date" $next_or_last "page" .)}}
 {{ end }}
 
 <section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3">
-  {{ range (first $recentArticles (.Paginate $current).Pages).Reverse }}
-  {{ partial "article-link/card.html" . }}
+  {{ $yesterday := now.AddDate 0 0 -1}}
+  {{ range (first $recentArticles (sort (where $dated_event "date" "ge" $yesterday) "date" "asc")) }}
+  {{ partial "article-link/card.html" (index . "page") }}
   {{ end }}
 </section>
