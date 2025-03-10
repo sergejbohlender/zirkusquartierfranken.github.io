@@ -1,6 +1,6 @@
 +++
 date = 2025-06-02
-dates = [2025-03-10, 2025-04-07, 2025-05-05, 2025-06-02]
+dates = [2025-03-10, 2025-04-07, 2025-05-12, 2025-06-02]
 attention = [
     ["2025-03-10", "19:30 - **Wodanstr.74, 90461 Nürnberg**"],
 ]
@@ -13,7 +13,7 @@ tags = ["Verein",]
 
 Nächste Termine:
 {{< alert icon="circle-info" >}}
-{{% dates %}}19:30 - Südpunkt {{% /dates %}}
+{{% dates %}}19:30 - noch Geheim{{% /dates %}}
 {{< /alert >}}
 
 
