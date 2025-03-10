@@ -1,10 +1,10 @@
 +++
-startDate = 2025-03-30
-endDate = 2025-03-30
-title = "Show für Show <br> (Vorläugiger Termin)"
+startDate = 2025-12-12
+alternative = "Winter 2025/26"
+title = "Show für Show <br> (Verschoben)"
 slug =  "2025/show_to_show"
 description = "Komm vorbei und erlebe einen Abend voller Akrobatik, Jonglage und Clownerie, präsentiert von talentierten Zirkuskünstlern aus der Region. Mit deiner Spende hilfst du uns, besondere Zirkusshows nach Franken zu bringen und die Kultur vor Ort zu bereichern!"
-summary = "Komm vorbei und erlebe einen Abend voller Akrobatik, Jonglage und Clownerie, präsentiert von talentierten Zirkuskünstlern aus der Region. Mit deiner Spende hilfst du uns, besondere Zirkusshows nach Franken zu bringen und die Kultur vor Ort zu bereichern!"
+summary = "Ein Abend voller Akrobatik, Jonglage und Clownerie, präsentiert von talentierten Zirkuskünstlern aus der Region. Mit deiner Spende hilfst du uns, besondere Zirkusshows nach Franken zu bringen!"
 tags = ["Show"]
 +++
 
@@ -28,7 +28,7 @@ Du findest unsere Aktion klasse und möchtest selbst mit uns auf die Bühne? Dan
 ## Termine
 |||
 |---|---|
-|Datum|Im Frühjahr 2025|
+|Datum|Im Winter 2025/26|
 |Zeiten| ab ca. 19/20:00 Uhr|
 |Ort|In Nürnberg (Information folgt)|
 

@@ -14,9 +14,16 @@
 {{/* Custom next upcoming date*/}}
 {{ $date := partial "next-date.html" . }}
 
+{{ $alternative := ""}}
+{{ with .Params.alternative}}
+  {{ $alternative = .}}
+{{ end }}
+
 
 {{/* Gather partials for this context */}}
-{{ if .Params.showDate | default (.Site.Params.article.showDate | default true) }}
+{{ if $alternative}}
+  {{$alternative}}
+{{ else if .Params.showDate | default (.Site.Params.article.showDate | default true) }}
   {{ $meta.Add "partials" (slice (partial "meta/date.html"  $date)) }}
 {{else if and (eq $scope "single") (.Params.showDateOnlyInArticle | default (.Site.Params.article.showDateOnlyInArticle | default false)) }}
   {{ $meta.Add "partials" (slice (partial "meta/date.html"  $date)) }}
