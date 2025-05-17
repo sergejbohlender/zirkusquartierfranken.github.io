@@ -3,6 +3,7 @@ date = 2025-06-02
 dates = [2025-03-10, 2025-04-07, 2025-05-12, 2025-06-02]
 attention = [
     ["2025-03-10", "Wodanstr.74, 90461 Nürnberg"],
+    ["2025-06-02", "19:30 Uhr, Hummelsteiner Park Biergarten, Kleestraße, 90461 Nürnberg (mitgebrachte Speisen möglich)"],
 ]
 title = "Plenum"
 slug =  "plenum"
