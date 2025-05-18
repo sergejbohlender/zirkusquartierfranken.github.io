@@ -36,7 +36,7 @@ An der hinteren Bleiweißstraße, direkt hinter dem Quibble gelegen, findet am 2
 
 ### Südstadtfest | Samstag 05.07.2025
 
-Für viele das schönste Stadtteilfest in Nürnberg. Das [Südstadtfest](https://www.suedstadtfest.de/)! Eine auch für uns große Bühne, die wir nutzen wollen möglichst viele Menschen zu erreichen und ihnen ein Stück Zirkus näher zu bringen. Ihr könnt uns zur angegebenen Zeit, am Brunnen im Herzen des Annaparks, finden. An unserer kleinen künstlerischen Quelle sprudelt die Inspiration nur so, seit also dabei! {{< icon "heart" >}}
+Für viele das schönste Stadtteilfest in Nürnberg. Das [Südstadtfest](https://www.suedstadtfest.de/)! Eine auch für uns große Bühne, die wir nutzen wollen möglichst viele Menschen zu erreichen und ihnen ein Stück Zirkus näher zu bringen. Ihr könnt uns zur angegebenen Zeit, vor der Hauptbühne im Herzen des Annaparks, finden. Nutzt die Gelegenheit, euch auf diesem Präsentierteller vor dem Start der Live-Acts inspirieren zu lassen und in Festivalstimmung zu kommen – seid dabei! {{< icon "heart" >}}
 
 |Uhrzeit|Programm|
 |---|---|
