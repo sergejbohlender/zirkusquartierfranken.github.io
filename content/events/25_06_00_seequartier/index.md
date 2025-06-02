@@ -16,7 +16,7 @@ wir, euer liebster Zirkusverein mit Hang zum Baden und Quatschen, laden euch ein
 
 |||
 |---|---|
-|Datum|Do. 14.06.2025|
+|Datum|Sa. 14.06.2025|
 |Zeiten| ab 14 Uhr |
 |Ort[{{< icon "location-dot" >}}](https://maps.app.goo.gl/G6vqz9k7XfhTGo569)|Happburger Stausee|
 
