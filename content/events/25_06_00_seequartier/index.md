@@ -29,7 +29,10 @@ Einfach ein schönes Fleckchen Natur und wir mittendrin.
 Lust, dabei zu sein? Oder hast du eine glorreiche Idee fürs Seequartier?
 Dann melde dich bei info@zirkus-quartier-franken.de – wir freuen uns über jede Nachricht, egal ob mit konkretem Vorschlag oder nur einem freudigen „Ich komm auch!“.
 
+{{< alert "lightbulb" >}} Vergiss nicht die Badehose zum Planschen und ein paar Snacks fürs gemeinsame Picknick einzupacken! {{< /alert >}}
+
 Es wird entspannt, ein bisschen verrückt – und ganz sicher wunderschön.
+
 
 
 
