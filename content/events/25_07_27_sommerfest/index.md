@@ -10,11 +10,11 @@ tags = ["Verein", "Feier", "Show", "Training"]
 
 ## Information
 Zirkus Quartier Franken e.V. präsentiert:  
-**Das erste Sommerfest des Zirkus Quartier Franken e.V. für Mitglieder, Freunde und Neugierige. {{< icon "bluesky" >}}{{< icon "heart" >}}{{< icon "sun" >}}{{< icon "fire" >}}**
+**Sommerfest des Zirkus Quartier Franken e.V. für Mitglieder, Freunde und Neugierige. {{< icon "bluesky" >}}{{< icon "heart" >}}{{< icon "sun" >}}{{< icon "fire" >}}**
  
 |||
 |---|---|
-|Datum|Sonntag 30. Juni 2024|
+|Datum|Sonntag 27. Juli 2024|
 |Zeiten| ab 15:00 Uhr|
 |Ort[{{< icon "location-dot" >}}](https://maps.app.goo.gl/arivwVDR7dsKZ5Nm6)|Kinder- und Jugendhaus Klüpfel<br>Leitzstraße 10<br>90489 Nürnberg|
 
