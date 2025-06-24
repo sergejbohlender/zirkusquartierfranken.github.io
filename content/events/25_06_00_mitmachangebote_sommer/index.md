@@ -27,7 +27,7 @@ Duch Mitmach-Angebote und Showbeiträge wollen wir diese tollen Veranstaltungen 
 
 ## Termine
 ### Bleiweißfest | Freitag 27.06.2025
-An der hinteren Bleiweißstraße, direkt hinter dem Quibble gelegen, findet am 28.06.2024 das Bleiweiß Straßenfest statt. Bei unserem GoTo Trainingsplatz dürfen wir nicht fehlen! Freut euch also auf folgendes Programm mit uns:
+An der hinteren Bleiweißstraße, direkt hinter dem Quibble gelegen, findet am 27.06.2025 das Bleiweiß Straßenfest statt. Bei unserem GoTo Trainingsplatz dürfen wir nicht fehlen! Freut euch also auf folgendes Programm mit uns:
 
 |Uhrzeit|Programm|
 |---|---|
