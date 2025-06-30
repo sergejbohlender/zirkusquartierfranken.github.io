@@ -14,7 +14,7 @@ Zirkus Quartier Franken e.V. präsentiert:
  
 |||
 |---|---|
-|Datum|Sonntag 27. Juli 2024|
+|Datum|Sonntag 27. Juli 2025|
 |Zeiten| ab 15:00 Uhr|
 |Ort[{{< icon "location-dot" >}}](https://maps.app.goo.gl/arivwVDR7dsKZ5Nm6)|Kinder- und Jugendhaus Klüpfel<br>Leitzstraße 10<br>90489 Nürnberg|
 
