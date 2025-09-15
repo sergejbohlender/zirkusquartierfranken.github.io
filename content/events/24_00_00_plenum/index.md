@@ -1,7 +1,8 @@
 +++
 date = 2025-06-02
-dates = [2025-03-10, 2025-04-07, 2025-05-12, 2025-06-02, 2025-06-30]
+dates = [2025-03-10, 2025-04-07, 2025-05-12, 2025-06-02, 2025-06-30, 2025-09-15, 2025-10-06, 2025-11-03, 2025-12-08, 2026-01-23]
 attention = [
+    ["2026-01-23", "wsl. Mitgliederversammlung, Ort und Datum wird noch bekannt gegeben."],
     ["2025-03-10", "Wodanstr.74, 90461 Nürnberg"],
     ["2025-06-02", "Wodanstr.74, 90461 Nürnberg"],
     ["2025-06-30", "19:30 Uhr, Hummelsteiner Park Biergarten, Kleestraße, 90461 Nürnberg (mitgebrachte Speisen möglich)"],
