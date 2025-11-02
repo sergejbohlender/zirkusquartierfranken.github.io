@@ -1,6 +1,6 @@
 +++
-startDate = 2025-12-12
-alternative = "Winter 2025/26"
+startDate = 2026-02-02
+alternative = "Frühjahr 26"
 title = "Show für Show"
 slug =  "2025/show_to_show"
 description = "Komm vorbei und erlebe einen Abend voller Akrobatik, Jonglage und Clownerie, präsentiert von talentierten Zirkuskünstlern aus der Region. Mit deiner Spende hilfst du uns, besondere Zirkusshows nach Franken zu bringen und die Kultur vor Ort zu bereichern!"
