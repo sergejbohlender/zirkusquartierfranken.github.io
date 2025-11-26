@@ -48,7 +48,7 @@ Alle kulinarischen Beiträge sind willkommen. Wir empfehlen auf veganen Kreation
 sich alle gleichermaßen an eueren tollen Kochkünsten erfreuen! {{< icon "heart" >}}
 
 {{< alert "circle-info" >}}
-Diesjährige Weihnachtsüberraschung is eine Openstage! 17Uhr gehts los. Du kannst uns schreiben oder dich spontan melden falls du was zeigen möchtest.
+Diesjährige Weihnachtsüberraschung is eine Openstage! 17Uhr gehts los. Du kannst uns schreiben oder dich spontan melden, falls du etwas zeigen möchtest.
 
 {{< /alert >}}
 
