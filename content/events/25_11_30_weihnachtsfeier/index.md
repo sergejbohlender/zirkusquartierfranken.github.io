@@ -48,11 +48,8 @@ Alle kulinarischen Beiträge sind willkommen. Wir empfehlen auf veganen Kreation
 sich alle gleichermaßen an eueren tollen Kochkünsten erfreuen! {{< icon "heart" >}}
 
 {{< alert "circle-info" >}}
-Dieses Jahr wird es eine kleine Weihnachtsüberraschung geben.
+Diesjährige Weihnachtsüberraschung is eine Openstage! 17Uhr gehts los. Du kannst uns schreiben oder dich spontan melden falls du was zeigen möchtest.
 
-Was euch erwartet, bleibt noch geheim!
-Genaue Uhrzeit und einen kleinen Hinweis könnt ihr bald hier finden. Schaut also mal wieder
-vorbei oder seit einfach die komplette Weihnachtsfeier über dabei.
 {{< /alert >}}
 
 Bild: [Erstellt mit Craiyon](https://www.craiyon.com/)
