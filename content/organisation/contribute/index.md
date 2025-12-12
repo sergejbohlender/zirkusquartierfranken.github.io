@@ -15,7 +15,7 @@ Dieser Bereich soll sich genau mit dieser Frage beschäftigen. Am einfachsten ka
 Für Fragen und Anregegungen, kontaktiere uns unter info@zirkus-quartier-franken.de
 
 ## Mitgliedschaft
-Du willst Mitglied werden? Dazu lediglich den passenden Antrag herunterladen, ausfüllen und per Post an uns schicken.
+Du willst Mitglied werden? Dann einfach den passenden Antrag herunterladen, ausfüllen und per Post an uns schicken oder zu einer unserer Veranstaltungen mitbringen.
 
 {{< button href="../../../downloads/ZQF-Aufnahmeantrag-Einzel.pdf" target="_blank">}}
     {{< icon "download" >}}Einzelmitgliedschaft-Aktiv/Förder
@@ -24,3 +24,9 @@ Du willst Mitglied werden? Dazu lediglich den passenden Antrag herunterladen, au
 {{< button href="../../../downloads/ZQF-Aufnahmeantrag-Familie.pdf" target="_blank">}}
     {{< icon "download" >}}Familienmitgliedschaft
 {{< /button >}}
+
+Per Post an:
+
+    Zirkus Quartier Franken e.V.
+    Wodanstr.74
+    90461 Nürnberg

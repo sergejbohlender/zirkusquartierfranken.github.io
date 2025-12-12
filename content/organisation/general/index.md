@@ -57,9 +57,13 @@ miteinander vernetzten.
 Dieser Bereich ist für dokumentarische Erzeugnisse, wie etwa unsere Satzung oder Geschäftsordnung, vorgesehen. Einfach per Klick herunterladen.
 
 {{< button href="../../../downloads/ZQF_Satzung.pdf" target="_blank">}}
-    &nbsp&nbsp{{< icon "download" >}}Satzung&nbsp&nbsp
+    {{< icon "download" >}}Satzung &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 {{< /button >}}
 <br><br>
-{{< button href="../../../downloads/ZQF_Geschaeftsordnung.pdf" target="_blank">}}
+{{< button href="../../../downloads/ZQF_Geschaeftsordnung-2025.pdf" target="_blank">}}
     {{< icon "download" >}}Geschäftsordnung
+{{< /button >}}
+<br><br>
+{{< button href="../../../downloads/ZQF_Gebuehrenordnung-2024.pdf" target="_blank">}}
+    {{< icon "download" >}}Gebührenordnung
 {{< /button >}}
