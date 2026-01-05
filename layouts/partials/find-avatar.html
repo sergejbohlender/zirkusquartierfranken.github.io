@@ -1,0 +1,18 @@
+{{ $disableImageOptimization := .Site.Params.disableImageOptimization | default false }}
+{{ $avatar := "" }}
+{{ with . }}
+    {{ $images := .Resources.ByType "image" }}
+    {{ range slice "*portrait*" "*feature*" }}
+        {{ if not $avatar }}{{ $avatar = $images.GetMatch . }}{{ end }}
+    {{ end }}
+{{ end }}
+
+{{ if not $avatar }}
+    {{ $avatar = resources.Get "img/no_avatar.jpg" }}
+{{ end }}
+
+{{ if and $avatar (not $disableImageOptimization) }}
+    {{ $avatar = $avatar.Fill "192x192" }}
+{{ end }}
+
+{{ return $avatar }}

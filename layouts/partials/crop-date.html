@@ -1,0 +1,9 @@
+<time datetime="{{ .context | time.Format "2006-01-02T15:04:05-07:00" }}">
+  {{ $date_format := site.Language.Params.dateFormat | default ":date_long" }}
+    {{ with .date_format }}
+      {{ $date_format = . }}
+    {{ end }}
+  {{ $date_str := time.Format $date_format .context }}
+  {{- i18n "article.date" (dict "Date" $date_str) -}}
+</time>
+{{- /* Trim EOF */ -}}

@@ -32,6 +32,8 @@ buildFuture = true
   category = "categories"
   author = "authors"
   series = "series"
+  skill  = "network"
+  place = "circus"
 
 [sitemap]
   changefreq = 'daily'

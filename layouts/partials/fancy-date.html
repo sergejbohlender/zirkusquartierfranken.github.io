@@ -1,0 +1,26 @@
+{{ if isset .Params "datetext" }}
+  {{ .Params.datetext }}
+{{ else if and (isset .Params "date") (isset .Params "enddate") }}
+  {{ $end := .Params.EndDate }}
+  {{ $start := .Params.Date}}
+  
+  {{ if eq $start.Year $end.Year }}
+    {{ if eq $start.Month $end.Month }}
+      {{ partial "crop-date.html" (dict "context" $start "date_format" "2") }}
+      -
+      {{ partial "meta/date.html" $end }}
+    {{ else }}
+      {{ partial "crop-date.html" (dict "context" $start "date_format" "2 January") }}
+      -
+      {{ partial "meta/date.html" $end }}
+    {{ end }}
+  {{ else }}
+    {{ partial "meta/date.html" $start }}
+    -
+    {{ partial "meta/date.html" $end }}
+  {{ end }}
+{{ else if isset .Params "date" }}
+  {{ partial "meta/date.html" .Params.date }}
+{{ else }}
+  no date
+{{ end }}
