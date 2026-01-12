@@ -25,13 +25,7 @@ Zirkus Quartier Franken e.V. präsentiert:
 
 Noch Fragen? Melde dich einfach unter workshop@zirkus-quartier-franken.de
 
-## Ablauf
-### 14:30-16:00 | Training Selbergroß
-Die erste Runde starten wir in einem Format, welches Rahmenbedingungen schafft, um vor allem jüngeren Teilnehmern ein selbstbestimmtes und eigenständiges Training zu ermöglichen.
-{{< alert "circle-info" >}}
-U18 Teilnahme ohne Begleitung von Erziehungsberechtigten möglich.
-{{< /alert >}}
 
-### 16:00-21:00 | Freies Training
-Im Anschluss heißt es **fünf Stunden Training pur!** Man kann es natürlich ein wenig entspannter angehen und tolle Kontakte knüpfen sowie sich von anderen inspirieren lassen.  
+## 14:30-21:00 | Freies Training
+**Sechs Stunden Training pur!** und einfach tolle Kontakte knüpfen sowie sich von anderen inspirieren lassen.  
 Kleine Workshops sind auch jederzeit gerne gesehen. Das geht spontan oder geplant, [melde dich bei uns](mailto:workshop@zirkus-quartier-franken.de) und wir können deinen tollen Workshop hier bewerben.
