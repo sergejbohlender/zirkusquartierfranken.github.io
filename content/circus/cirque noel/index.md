@@ -2,9 +2,8 @@
 title = "Cirque Noël"
 startDate = 2025-12-20
 endDate = 2026-01-10
-description = "Findet jährlich statt und bietet innovative, internationale Produktionen. "
-summary = "Findet jährlich statt und bietet innovative, internationale Produktionen. "
+summary = "Findet jährlich statt und bietet innovative, internationale Produktionen."
 externalUrl = "https://www.cirque-noel.at"
 location = "Österreich: Gratz"
-circus = ["nachbar", "Zirkusfestival", "Neuer Zirkus"]
+circus = ["Nachbarland", "Zirkusfestival", "Neuer Zirkus"]
 +++

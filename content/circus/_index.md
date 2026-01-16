@@ -12,6 +12,6 @@ Du kennst ein Format, das hier nicht fehlen darf? Schick uns deine Tipps zu rege
 Unsere Zirkus-Datenbank wächst stetig – für alle, die Zirkus entdecken und erleben wollen.
 
 
-## Zirkus-Datenbank
+## Zirkus-Fundgrube
 
 ---

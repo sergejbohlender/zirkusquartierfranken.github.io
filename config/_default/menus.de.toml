@@ -36,6 +36,24 @@
   weight = 4
 
 [[main]]
+  name = "Zirkus"
+  weight = 16
+
+
+[[main]]
+  name = "Netzwerk"
+  parent = "Zirkus"
+  pageRef = "network"
+  weight = 1
+
+
+[[main]]
+  name = "Festivals & Co."
+  parent = "Zirkus"
+  pageRef = "circus"
+  weight = 2
+
+[[main]]
   name = "Events"
   pageRef = "events"
   weight = 20

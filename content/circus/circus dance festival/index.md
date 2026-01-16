@@ -1,8 +1,7 @@
 +++
 title = "Circus Dance Festival"
-startDate = 2025-06-06
-endDate = 2025-06-08
-description = "Widmet sich der Verbindung von Zirkus und Tanz"
+startDate = 2026-05-16
+endDate = 2026-05-31
 summary = "Widmet sich der Verbindung von Zirkus und Tanz"
 externalUrl = "https://www.circus-dance-festival.de"
 location = "Köln"
