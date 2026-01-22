@@ -1,0 +1,4 @@
+{{ $address := .Get "address" }}
+{{ $subject := .Get "subject" }}
+
+mailto:{{ $address }}?subject={{ $subject | safeURL }}
