@@ -1,6 +1,6 @@
 +++
 title = "Rampenschweinerei"
-startDate = 2026-01-27
+startDate = 2026-02-24
 summary = "Grandiose offene Kleinkunstbühne, auch für Zirkus"
 externalUrl = "https://rampenschweinerei.de"
 location = "Fürth / Nürnberg"
