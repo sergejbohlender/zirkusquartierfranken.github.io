@@ -45,7 +45,7 @@
     {{ $soon := (where .Pages "Date" "ge" $today).ByDate | group "Demnächst" }}
     
     {{ $ongoing := where .Pages "Params.EndDate" "ge" $yesterday }}
-    {{ $ongoing := ($ongoing | intersect (where .Pages "Params.StartDate" "le" $yesterday)).ByDate | group "Läuft gerade" }}
+    {{ $ongoing := ($ongoing | intersect (where .Pages "Params.StartDate" "le" $today)).ByDate | group "Läuft gerade" }}
     
     {{ $no_update := where .Pages "Date" "lt" $yesterday}}
     {{ $no_updat_no_range := where $no_update "Params.EndDate" "eq" nil }}
