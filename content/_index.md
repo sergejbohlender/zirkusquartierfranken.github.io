@@ -10,7 +10,9 @@ Nur wo?
 {{< /button >}} &nbsp;
 {{< button href=network >}}
 Netzwerk
-{{< /button >}}&nbsp;
+{{< /button >}}
+
+
 {{< button href=training >}}
 Trainings
 {{< /button >}}
