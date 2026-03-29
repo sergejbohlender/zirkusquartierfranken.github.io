@@ -1,9 +1,9 @@
 +++
 startDate = 2026-01-02
-dates = [2026-01-25, 2026-02-22, 2026-03-22, 2026-04-19, 2026-04-26, 2026-05-17,]
+dates = [2026-01-25, 2026-02-22, 2026-03-22, 2026-04-19, 2026-05-17,]
 attention = [
     ["2025-05-18", "18:00 - Keulenmanipulation #3"],
-    ["2026-04-26", "noch nicht bestätigt"]
+    #["2026-04-26", "noch nicht bestätigt"]
 ]
 endDate = 2027-03-18
 title = "Einquartiert!"
