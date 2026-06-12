@@ -30,10 +30,20 @@
   pageRef = "organisation/contribute"
   weight = 3
 [[main]]
+  name = "Mitgliederbereich"
+  parent = "Verein"
+  url = "https://zirkusquartierfranken.wolkesicher.de/"
+  weight = 4
+[[main]]
+  name = "Protokolle"
+  parent = "Verein"
+  url = "https://zirkusquartierfranken.wolkesicher.de/s/K5JrA4nmfZkMsL6"
+  weight = 5
+[[main]]
   name = "Unterstützen"
   parent = "Verein"
   pageRef = "organisation/support"
-  weight = 4
+  weight = 6
 
 [[main]]
   name = "Zirkus"
