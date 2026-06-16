@@ -3,7 +3,7 @@
 <div class="flex mt-4">  
   {{ $avatar := partial "find-avatar.html" . }}
   <img
-    class="!mt-0 !mb-0 h-24 w-24 rounded-full me-4"
+    class="!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4"
     width="96"
     height="96"
     src="{{ $avatar.RelPermalink }}" />

@@ -1,0 +1,13 @@
+{{ $person:= or (.Get "person") ""}}
+{{ with index .Site.Data (.Get "src") }}
+  {{ range $author, $data := . }}
+    {{ if not $data }}
+      {{ continue }}
+    {{ end }}
+    {{ if and $person (not (eq $data.name $person))}}
+      {{continue}}
+    {{end}}
+    
+    {{ partial "team-member.html" (dict "context" . "data" $data "link" 0) }}
+  {{ end }}
+{{ end }}

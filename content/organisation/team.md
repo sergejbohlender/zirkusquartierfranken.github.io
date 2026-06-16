@@ -7,7 +7,7 @@ sharingLinks: false
 ---
 
 
-{{< team >}}
+{{< people src=team >}}
 
 Hier noch ein großes Dankeschön an alle ehemaligen Vorstände:
 
