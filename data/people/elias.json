@@ -1,0 +1,14 @@
+{
+    "name": "Elias Oechsner",
+    "function": "Zirkusartist",
+    "image" : "img/portrait/elias.png",
+    "bio": "Jonglage und Clownerie",
+    "social": [
+        { "globe": "https://www.eliasoechsner.de"},
+        { "email": "mailto:elias@eliasoechsner.de"},
+        { "facebook": "https://www.facebook.com/elias.oechsner" },
+        { "instagram": "https://www.instagram.com/elias.531/" },
+        { "youtube": "https://www.youtube.com/@Elias.531/" },
+        { "tiktok": "https://www.tiktok.com/@eliasoechsner" }
+  ]
+}
