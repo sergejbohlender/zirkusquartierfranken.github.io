@@ -24,20 +24,18 @@ Herangehensweise an die Clownerie {{< icon "heart" >}}**
 
 
 ## Zielgruppe
-Zirkusartist:innen ohne Vorkenntnisse, aber mit Interesse an Clownerie
-Tänzer:innen ohne Vorkenntnisse, aber mit Interesse an Clownerie
-Schauspieler:innen ohne Vorkenntnisse, aber mit Interesse an Clownerie
-Hobby- und Proficlowns, die einen zirzensisch geprägten Blickwinkel integrieren wollen
-Jeder Mensch, der Lust hat mehr über sich und seine komischen Qualitäten zu lernen.
+- Zirkusartist:innen ohne Vorkenntnisse, aber mit Interesse an Clownerie
+- Tänzer:innen ohne Vorkenntnisse, aber mit Interesse an Clownerie
+- Schauspieler:innen ohne Vorkenntnisse, aber mit Interesse an Clownerie
+- Hobby- und Proficlowns, die einen zirzensisch geprägten Blickwinkel integrieren wollen
+- Jeder Mensch, der Lust hat mehr über sich und seine komischen Qualitäten zu lernen.
 
 ## Workshopinhalt
 Elias Zugang zur Clownerie ist ein zirzensischer Weg sie auf die Bühne zu bringen.
 Dieser lässt sich durchaus mit dem Lernen einer Zirkusdisziplin vergleichen, denn was zählt ist das
 Training.
 
-- Es geht um das Trainieren von verschiedenen Orten.
-- Orten in uns selbst, die andere zum Lachen bringen.
-- Wo sind wir also am richtigen Ort?
+- Es geht um das Trainieren von verschiedenen Orten. Orten in uns selbst, die andere zum Lachen bringen. Wo sind wir also am richtigen Ort?
 - Wie stellen wir uns drollig selbst in Frage?
 - Wie hören wir unserem Publikum zu und was bedeutet es uns ihm zu überlassen?
 - Wie sind wir gleichzeitig im Innen und im Außen und was heißt das überhaupt?
