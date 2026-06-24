@@ -1,17 +1,21 @@
 +++
 startDate = 2026-07-04
-dates = [2026-06-26, 2026-07-04]
+dates = [2026-07-04]
 attention = [
-    ["2025-06-26", "Bleiweißfest"],
-    ["2025-07-04", "Südstadtfest"],
+    ["2026-06-26", "Abgesagt! (wegen Hitze), Bleiweißfest"],
+    ["2026-07-04", "Südstadtfest"],
 ]
 endDate = 2026-07-06
 title = "Festlicher Mitmachzirkus in der Südstadt"
 slug =  "2026/mitmachzirkus-südstadt-bleiweiss"
-description = "Bleiweiß Straßenfest und Südstadtfest wir kommen!"
-summary = "Bleiweiß Straßenfest und Südstadtfest wir kommen!"
+description = "Bleiweiß Straßenfest (abgesagt!) und Südstadtfest wir kommen!"
+summary = "Bleiweiß Straßenfest (abgesagt!) und Südstadtfest wir kommen!"
 tags = ["Workshop", "Verein"]
 +++
+
+{{< alert "circle-info" >}}
+Bleiweiß Straßenfest abgesagt! Aufgrund von Hitze.
+{{< /alert >}}
 
 
 Grad für Grad rückt der Sommer näher, somit auch die zahlreichen Sommerfeste in Franken. Als Keimzelle unseres Vereins zählt
