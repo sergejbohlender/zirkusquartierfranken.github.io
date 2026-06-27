@@ -1,16 +1,16 @@
 +++
 startDate = 2026-10-03
 endDate = 2026-10-04
-title = "Zirzensischer Zugang Zum Clown"
+title = "Zirzensischer Zugang zum Clown"
 slug = "26/workshop_zirzensischer_zugang_clown"
-description = "Im Workshop “Zirzensischer Zugang Zum Clown” teilt Elias mit euch seine Herangehensweise an die Clownerie"
-summary = "Im Workshop “Zirzensischer Zugang Zum Clown” teilt Elias mit euch seine Herangehensweise an die Clownerie"
+description = "Im Workshop “Zirzensischer Zugang zum Clown” teilt Elias mit euch seine Herangehensweise an die Clownerie"
+summary = "Im Workshop “Zirzensischer Zugang zum Clown” teilt Elias mit euch seine Herangehensweise an die Clownerie"
 tags = ["workshop", "clown" ]
 +++
 
 ## Information
 Zirkus Quartier Franken e.V. präsentiert:  
-**Im Workshop “Zirzensischer Zugang Zum Clown” teilt Elias mit euch seine
+**Im Workshop “Zirzensischer Zugang zum Clown” teilt Elias mit euch seine
 Herangehensweise an die Clownerie {{< icon "heart" >}}**
  
 |||
