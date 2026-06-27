@@ -3,10 +3,6 @@
 
 Wir sind diejenigen, die im Frankenland und der Metropolregion Nürnberg die Zirkuskünste leben, indem wir zum Beispiel auftreten, Shows organisieren, Workshops geben oder uns einfach frei zum Training treffen.
 
-{{< alert "circle-info" >}}
-Bleiweiß Straßenfest abgesagt! Aufgrund von Hitze.
-{{< /alert >}}
-
 ## Zirkus in Franken
 
 {{< button href=circus/franken >}}

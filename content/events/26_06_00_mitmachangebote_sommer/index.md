@@ -13,11 +13,6 @@ summary = "Bleiweiß Straßenfest (abgesagt!) und Südstadtfest wir kommen!"
 tags = ["Workshop", "Verein"]
 +++
 
-{{< alert "circle-info" >}}
-Bleiweiß Straßenfest abgesagt! Aufgrund von Hitze.
-{{< /alert >}}
-
-
 Grad für Grad rückt der Sommer näher, somit auch die zahlreichen Sommerfeste in Franken. Als Keimzelle unseres Vereins zählt
 sicherlich der heiße Süden Nürnbergs. {{< icon "fire" >}}
 Deshalb fühlen wir uns im Zirkus Quartier Franken e.V. eng mit der Südstadt verbunden und freuen uns auf die vielen anstehenden Festivitäten.
