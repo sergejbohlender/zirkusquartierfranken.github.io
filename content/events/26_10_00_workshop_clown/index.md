@@ -18,7 +18,7 @@ Herangehensweise an die Clownerie {{< icon "heart" >}}**
 |Datum|03.-04. Oktober 2026|
 |Zeiten|Sa/So jeweils 9:30 Uhr - 16:30 Uhr|
 |Ort[{{< icon "location-dot" >}}](https://maps.app.goo.gl/NueirEDMF1TGLPVv5)|Kinder- und Jugendhaus Klüpfel<br>Leitzstraße 10<br>90489 Nürnberg|
-|Preis|2 Tage Sa/So - 160 €<br> nur Samstag - 90 €<br> *reduzierte Preise für Mitglieder (Preise folgen)<br><br>Falls du es dir nicht leisten kannst, melde dich bei uns.|
+|Preis|2 Tage Sa/So - 160 € (128 €)<br> nur Samstag - 90 € (72 €)<br> *reduzierte Preise für Mitglieder (Preise folgen)<br><br>Falls du es dir nicht leisten kannst, melde dich bei uns.|
 |Kontakt/<br>Anmeldung|workshop@zirkus-quartier-franken.de|
 
 
