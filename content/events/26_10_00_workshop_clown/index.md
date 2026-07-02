@@ -1,6 +1,7 @@
 +++
 startDate = 2026-10-03
 endDate = 2026-10-04
+alternative= "3. bis 4. Oktober 2026"
 title = "Zirzensischer Zugang zum Clown"
 slug = "26/workshop_zirzensischer_zugang_clown"
 description = "Im Workshop “Zirzensischer Zugang zum Clown” teilt Elias mit euch seine Herangehensweise an die Clownerie"
