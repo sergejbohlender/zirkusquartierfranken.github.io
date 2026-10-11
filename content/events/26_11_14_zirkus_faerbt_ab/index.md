@@ -25,7 +25,7 @@ showTableOfContents = false
 
 Lachen färbt ab, Staunen färbt ab, Konfetti färbt ab? – Zirkus färbt ab! Mit einem bunten Mix aus Artistik, Überraschungen und jeder Menge Kreativität verwandeln wir das KinderJugendKultur Quibble in ein Zirkusvarieté.
 
-Lokale und überregionale Künstler bringen ihre vielfältigen Talente, Tricks und Ideen auf die Bühne. Sie lassen die Schwerkraft kurz wackeln, überraschen mit außergewöhnlichen Darbietungen und bringen frischen Wind in die fränkische Kulturlandschaft. Es wird gestaunt, gelacht und mitgefiebert – und vielleicht sieht die Welt danach ein kleines bisschen anders aus.
+Lokale und überregionale Künstler*innen bringen ihre vielfältigen Talente, Tricks und Ideen auf die Bühne. Sie lassen die Schwerkraft kurz wackeln, überraschen mit außergewöhnlichen Darbietungen und bringen frischen Wind in die fränkische Kulturlandschaft. Es wird gestaunt, gelacht und mitgefiebert – und vielleicht sieht die Welt danach ein kleines bisschen anders aus.
 
 {{< alert "heart" >}}
 
