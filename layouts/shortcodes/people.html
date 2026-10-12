@@ -1,5 +1,5 @@
 {{ $person:= or (.Get "person") ""}}
-{{ with index .Site.Data (.Get "src") }}
+{{ with index hugo.Data (.Get "src") }}
   {{ range $author, $data := . }}
     {{ if not $data }}
       {{ continue }}
