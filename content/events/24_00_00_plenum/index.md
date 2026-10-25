@@ -18,7 +18,18 @@ tags = ["Verein",]
 Diese Seite wird stets aktuell gehalten und neben Email oder unserer *Signal* Gruppe, benutzt, um euch über spontane wie langfristige Änderungen zu informieren. Schaut also gelegentlich hier vorbei!
 {{< /alert >}}
 
-{{% dates %}}19:00 - Ort anfragen: plenum@zirkus-quartier-franken.de{{% /dates %}}
+Kontakt: plenum@zirkus-quartier-franken.de
+
+
+{{% dates %}}19:30 im Klara [{{< icon "location-dot" >}}](https://maps.app.goo.gl/Q1MPd8n7ec9ztvpm7){{% /dates %}}
+
+
+
+Neuer Treffpunkt für unser Plenum:
+
+    Klara - Zentrum für Beratung & Engagement  
+    Klaragasse 3
+    90402 Nürnberg
 
 Nachdem wir erfolgreich unseren Zirkus-Verein gegründet haben, müssen wir unser frisch errichtetes Quartier mit Leben füllen. Wir freuen uns daher sehr über Ideen, Fragen und Rückmeldungen sowie rege Teilnahme an den Vereinsplena – also unseren monatlichen Sitzungen. Der Verein lebt davon und dadurch, dass alles sich einbringen und Ideen umsetzen – macht mit, damit wir alle profitieren!
 
