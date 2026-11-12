@@ -16,7 +16,7 @@ showTableOfContents = false
 
 |||
 |---|---|
-|Datum|Sonntag 14. November 2026|
+|Datum|Samstag 14. November 2026|
 |Beginn|**18:00 Uhr** (Einlass: 17:30 Uhr)
 |Ort|[{{< icon "location-dot" >}}](https://maps.app.goo.gl/vjqVtLmMPJ3i9Spj7) JugendKinderKultur Quibble<br>Augustenstraße 25, 90461 Nürnberg|
 |Preis|Eintritt frei|
